@@ -1,1 +1,1 @@
-# twitter-word-analyze-backend
+# twitter-word-analyze-api
